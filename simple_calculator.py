@@ -1,4 +1,5 @@
-# %% Homework #2
+# %% 
+# hw#2의 내용을 수현
 
 def arithmeti_ops(op): 
     num1 = int(input("input 1st number: "))
